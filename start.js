@@ -1,3 +1,1 @@
-
-var site = new Main();
-site.start();
+mainPage.start();
